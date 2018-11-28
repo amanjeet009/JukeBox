@@ -1,0 +1,7 @@
+
+    {
+      "tileName": "tile1",
+      "Header": "Music Player",
+      "SubHeader": "Click to Enter",
+      "HeaderImage":"https://ui5.sap.com/resources/sap/ui/documentation/sdk/images/logo_ui5.png"
+    }

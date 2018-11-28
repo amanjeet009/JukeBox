@@ -1,0 +1,49 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:html="http://www.w3.org/1999/xhtml" controllerName="a.abc.controller.Playlist">
+	<App>
+		<pages>
+			<Page class="page" title="{i18n>title1}" showNavButton="true" navButtonPress="onNavBack" navButtonText="Back">
+				<content>
+				    <Table xmlns:action="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1" class="table" alternateRowColors="true" headerText="{i18n>tableTitle}" items="{Songs>/songsList}" itemPress="action" action:wiring="\{'itemPress':\{'navigation':\{'routeName':'Playing'\}\}">
+				         <columns>
+				            <Column id="column0">
+				                <header>
+				                    <Label text="{i18n>column0}" id="label0"/>
+				                </header>
+				            </Column>
+				            <Column id="column1">
+				                <header>
+				                    <Label text="{i18n>column1}" id="label1"/>
+				                </header>
+				            </Column>
+				            <Column id="column2">
+				                <header>
+				                    <Label text="{i18n>column2}" id="label2"/>
+				                </header>
+				                </Column>
+				           <Column id="column3">
+				                <header>
+				                    <Label text="{i18n>column3}" id="label3"/>
+				                </header>
+				            </Column>
+				             <Column id="column4">
+				                <header>
+				                    <Label text="{i18n>column4}" id="label4"/>
+				                </header>
+				            </Column>
+				            </columns>
+				            <items>
+				            <ColumnListItem type="Active" id="item0" press="onPressRow">
+				                <cells id="cellselect" action="songSelect">
+				                    <Text text="{Songs>SongName}" id="text0"/>
+				                    <Text text="{Songs>ComposedBy}" id="text1"/>
+				                    <Text text="{Songs>LyricsBy}" id="text2"/>
+				                    <Text text="{Songs>Label}" id="text3"/>
+				                    <Text text="{Songs>Duration}" id="text4"/></cells>
+				            </ColumnListItem>
+				        </items>
+				      </Table>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>

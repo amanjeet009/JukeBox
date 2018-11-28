@@ -1,0 +1,171 @@
+{
+    "resources": [
+        {
+            "name": "Component-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "Local_Images/Alien_Ink_2560X1600_Abstract_Background_1.jpg"
+        },
+        {
+            "name": "Local_Images/ezgif-5-9b8a9cc1bec7.gif"
+        },
+        {
+            "name": "control/Ccontrol-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "control/Ccontrol.js"
+        },
+        {
+            "name": "controller/Homepage-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/Homepage.controller.js"
+        },
+        {
+            "name": "controller/Playing-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/Playing.controller.js"
+        },
+        {
+            "name": "controller/Playlist-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/Playlist.controller.js"
+        },
+        {
+            "name": "css/style-dbg.css",
+            "isDebug": true
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "di.code-validation.core_issues.json"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "model/Songs.json"
+        },
+        {
+            "name": "model/models-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "model/tileData.json"
+        },
+        {
+            "name": "neo-app.json"
+        },
+        {
+            "name": "tmp/Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "tmp/Component.js"
+        },
+        {
+            "name": "tmp/Local_Images/Alien_Ink_2560X1600_Abstract_Background_1.jpg"
+        },
+        {
+            "name": "tmp/Local_Images/ezgif-5-9b8a9cc1bec7.gif"
+        },
+        {
+            "name": "tmp/control/Ccontrol.js"
+        },
+        {
+            "name": "tmp/controller/Homepage.controller.js"
+        },
+        {
+            "name": "tmp/controller/Playing.controller.js"
+        },
+        {
+            "name": "tmp/controller/Playlist.controller.js"
+        },
+        {
+            "name": "tmp/css/style.css"
+        },
+        {
+            "name": "tmp/i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "tmp/index.html"
+        },
+        {
+            "name": "tmp/manifest.json"
+        },
+        {
+            "name": "tmp/model/Songs.json"
+        },
+        {
+            "name": "tmp/model/models.js"
+        },
+        {
+            "name": "tmp/model/tileData.json"
+        },
+        {
+            "name": "tmp/view/Homepage.view.xml"
+        },
+        {
+            "name": "tmp/view/Playing.view.xml"
+        },
+        {
+            "name": "tmp/view/Playlist.view.xml"
+        },
+        {
+            "name": "tmp-dbg/Component.js"
+        },
+        {
+            "name": "tmp-dbg/control/Ccontrol.js"
+        },
+        {
+            "name": "tmp-dbg/controller/Homepage.controller.js"
+        },
+        {
+            "name": "tmp-dbg/controller/Playing.controller.js"
+        },
+        {
+            "name": "tmp-dbg/controller/Playlist.controller.js"
+        },
+        {
+            "name": "tmp-dbg/css/style.css"
+        },
+        {
+            "name": "tmp-dbg/model/models.js"
+        },
+        {
+            "name": "view/Homepage.view.xml"
+        },
+        {
+            "name": "view/Playing.view.xml"
+        },
+        {
+            "name": "view/Playlist.view.xml"
+        }
+    ]
+}

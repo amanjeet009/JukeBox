@@ -1,0 +1,12 @@
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="a.abc.controller.Homepage" displayBlock="true">
+	<App id="idAppControl" backgroundImage="{i18n>background}">
+		<pages>
+			<Page class="page" title="{i18n>title}">
+				<content>	
+				<GroupHeaderListItem id="item1" class="listitem"/>
+				<GenericTile class="tile" xmlns:action="http://schemas.sap.com/sapui5/extension/sap.ui.core.CustomData/1" header="{Tiles>/Header}" subheader="{Tiles>/SubHeader}" frameType="Auto" headerImage="{i18n>HeaderImage}" press="action" action:wiring="\{'press':\{'navigation':\{'routeName':'Playlist'\}\}\}" backgroundImage="{i18n>Image}"/>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>

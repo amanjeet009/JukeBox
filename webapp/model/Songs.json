@@ -1,0 +1,53 @@
+{
+  "songsList": [
+    {
+      "SongName": "Equals make out",
+      "ComposedBy": "Gary Wilson",
+      "LyricsBy": "Gary Wilson",
+      "Label": "www.panacherock.com",
+      "Duration" : "05m 01sec",
+      "Path":"http://www.panacherock.com/downloads/mp3/gary_wilson-6_4_equals_make_out.mp3"
+      },
+    {
+    	"SongName": "Find Yourself",
+      "ComposedBy": "WMP",
+      "LyricsBy": "WMP",
+      "Label": "Speed",
+      "Duration" : "03m 34sec",
+       "Path":"http://www.panacherock.com/downloads/mp3/04_Find_Yourself.mp3"
+    },
+        {
+    	"SongName": "Murder of a Spider",
+      "ComposedBy": "Reverse Crystal",
+      "LyricsBy": "Reverse Crystal",
+      "Label": "Records",
+      "Duration" : "04m 02sec",
+       "Path":"http://www.panacherock.com/downloads/mp3/04_Move_And_Shout.mp3"
+    },
+    {
+    	"SongName":"Afterlife",
+		"Label":"Invasion of Privacy",
+		"ComposedBy":"N/A",
+		"LyricsBy":"N/A",
+		"Duration" : "01m 46sec",
+		"Path":"http://www.panacherock.com/downloads/mp3/01_Afterlife.mp3"
+		
+    },
+    {
+    	"SongName": "Lights Out",
+		"Label":"Legends Of The Summer",
+		"ComposedBy":"Meek Mill",
+		"LyricsBy":"Meek Mill",
+		"Duration" : "02m 49sec",
+		 "Path":"http://www.panacherock.com/downloads/mp3/01_Lights_Out_V1.mp3"
+    },
+    {
+    	"SongName": "Yes Indeed",
+    	"Label":"Harder Than Ever",
+		"ComposedBy":"Lil Baby & Drake",
+		"LyricsBy":"Lil Baby & Drake",
+		"Duration" : "02m 25sec",
+		"Path":"http://www.panacherock.com/downloads/mp3/02_DONT_PUSH_MEAROUND.mp3"
+    }
+    ]
+}
