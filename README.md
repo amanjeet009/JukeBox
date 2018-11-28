@@ -1,2 +1,2 @@
 # JukeBox
-Online Media Player
+Online Media Player (MP3)
